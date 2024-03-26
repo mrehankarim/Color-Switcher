@@ -1,4 +1,6 @@
 # React + Vite
+# Summary:
+Color Switcher is a absolute beginner project.It changes color of screen based on click of button.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
